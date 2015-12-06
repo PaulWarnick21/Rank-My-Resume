@@ -12,7 +12,7 @@ A LOT of trail and error with android studios, first time using it for something
 
 ## Challenges I ran into
 
-Sleep! A lot of missed sleep, thus leading to a couple stupid time wasting mistakes. All if all Haven OnDemand made my life a lot easily.
+Sleep! A lot of missed sleep, thus leading to a couple stupid time wasting mistakes. All in all Haven OnDemand made my life a lot easily.
 
 ## Accomplishments that I'm proud of
 
